@@ -1,0 +1,136 @@
+[{
+  "name": "Shakib Al Hasan",
+  "age": 32,
+  "salary": 25000,
+  "country": "Bangladesh",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
+  "title": "All Rounder",
+  "flag":"https://i.redd.it/wasycdpv2k901.png",
+  "id": 1
+}, {
+  "name": "Virat Kohli",
+  "age": 30,
+  "salary": 52000,
+  "country": "India",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMKbzKJ5sgacfr_ejJjWC_uy3VWJI7qntPHw&usqp=CAU",
+  "title": "Batsman",
+  "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+  "id": 2
+}, {
+  "name": "Shahid Afridi",
+  "age": 38,
+  "salary": 78000,
+  "country": "Pakistan",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyBGPJe8Zz5cye1FB8-pL_ruQMVfd8EiEtQ&usqp=CAU",
+  "title": "All Rounder",
+  "flag":"https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+  "id": 3
+}, {
+  "name": "Chris Gayle",
+  "age": 42,
+  "salary": 120000,
+  "country": "West Indies",
+  "img": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2021/01/01/Pictures/_49d7be0c-4bef-11eb-8fd5-05c83db08e58.jpg",
+  "title": "All Rounder",
+  "flag":"https://i.pinimg.com/originals/97/fc/69/97fc695ba919e5dfb718ec87066286bc.png",
+  "id": 4
+}, {
+  "name": "AB de Villiars",
+  "age": 41,
+  "salary": 33000,
+  "country": "South Africa",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg",
+  "title": "All Rounder",
+  "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+  "id": 5
+}, {
+  "name": "Mahmudullah Riad",
+  "age": 33,
+  "salary": 18000,
+  "country": "Bangladesh",
+  "img": "https://static.toiimg.com/thumb/msid-76356800,width-500,resizemode-4,imgsize-/76356800.jpg",
+  "title": "All Rounder",
+  "flag":"https://i.redd.it/wasycdpv2k901.png",
+  "id": 6
+}, {
+  "name": "Jasprit Bumrah",
+  "age": 29,
+  "salary": 38000,
+  "country": "India",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170685/jasprit-bumrah.jpg",
+  "title": "Fast Bowler",
+  "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+  "id": 7
+}, {
+  "name": "Ricky Ponting",
+  "age": 43,
+  "salary": 9300,
+  "country": "Australia",
+  "img": "https://static.toiimg.com/photo/msid-78216421/78216421.jpg?resizemode=4&width=400",
+  "title": "Batsman",
+  "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png",
+  "id": 8
+}, {
+  "name": "Nicolas Pooran",
+  "age": 25,
+  "salary": 11000,
+  "country": "West Indies",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170810/nicholas-pooran.jpg",
+  "title": "All Rounder",
+  "flag":"https://i.pinimg.com/originals/97/fc/69/97fc695ba919e5dfb718ec87066286bc.png",
+  "id": 9
+}, {
+  "name": "Mushfiqur Rahim",
+  "age": 30,
+  "salary": 4700,
+  "country": "Bangladesh",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+  "title": "Wk Batsman",
+  "flag":"https://i.redd.it/wasycdpv2k901.png",
+  "id": 10
+}, {
+  "name": "Mustafizur Rahman",
+  "age": 29,
+  "salary": 6001,
+  "country": "Bangladesh",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg",
+  "title": "Bowler",
+  "flag":"https://i.redd.it/wasycdpv2k901.png",
+  "id": 11
+}, {
+  "name": "DJ Bravo",
+  "age": 34,
+  "salary": 30000,
+  "country": "West Indies",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_BIOTolrrdFQwTJfoVG2O2Ub1YPBQK-Zlw&usqp=CAU",
+  "title": "All Rounder",
+  "flag":"https://i.pinimg.com/originals/97/fc/69/97fc695ba919e5dfb718ec87066286bc.png",
+  "id": 12
+}, {
+  "name": "Andre Russel",
+  "age": 35,
+  "salary": 13000,
+  "country": "West Indies",
+  "img": "https://moneyball.insidesport.co/img/singleplayer/AndreRussell1.jpg",
+  "title": "All Rounder",
+  "flag":"https://i.pinimg.com/originals/97/fc/69/97fc695ba919e5dfb718ec87066286bc.png",
+  "id": 13
+}, {
+  "name": "Kieron Pollard",
+  "age": 36,
+  "salary": 4200,
+  "country": "West Indies",
+  "img": "https://ss.thgim.com/cricket/article31134075.ece/alternates/FREE_380/Kieron-Pollard",
+  "title": "All Rounder",
+  "flag":"https://i.pinimg.com/originals/97/fc/69/97fc695ba919e5dfb718ec87066286bc.png",
+  "id": 14
+}, {
+  "name": "MS Dhoni",
+  "age": 41,
+  "salary": 9600,
+  "country": "India",
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170677/ms-dhoni.jpg",
+  "title": "WK Batsman",
+  "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+  "id": 15
+}]

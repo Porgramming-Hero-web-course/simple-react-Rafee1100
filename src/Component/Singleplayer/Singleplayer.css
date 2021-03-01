@@ -1,0 +1,25 @@
+.team-info{
+    display: flex;
+    text-align: center;
+}
+.team-info li{
+    list-style: none;
+}
+.name{
+    text-align: left;
+}
+li{
+    font-size: 20px;
+    font-weight: 500;
+}
+.totalPlayer{
+    font-size: 25px;
+    color: darkorange;
+}
+.summary{
+    font-size: 45px;
+    color: deeppink;
+}
+.budget{
+    margin: 25px;
+}
